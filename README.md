@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a sidebar for folder navigation just like we have in windows left pane for navigating folder or like we have in vscocde folder sidebar navigation panel. I worked on this for Shagun's work in Blulabs. All this code is from some online article.
+
 ## Getting Started
 
 First, run the development server:
